@@ -36,7 +36,7 @@ $clam->shutdown(); // Shutdown ClamAV
 
 ## System Requirements
 
-This package requires PHP 7.1 or later. We recommend using the latest PHP version whenever possible.
+This package requires PHP 8.0 or later. We recommend using the latest PHP version whenever possible.
 
 ## Find Us
 
@@ -53,4 +53,4 @@ This package requires PHP 7.1 or later. We recommend using the latest PHP versio
 
 ## Copyright and license
 
-The MIT License (MIT) [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
+The MIT License (MIT) [https://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
